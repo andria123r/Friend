@@ -1,0 +1,45 @@
+body{
+    background-color: black;
+    color: blue !important;
+}
+
+.cont {
+    max-width: 1000px !important;
+    margin: 50px auto;
+    display: block;
+}
+.cont input,form textarea{
+    margin-bottom: 5px;
+}
+textarea{
+    height: 180px;
+}
+.cont .bi-envelope-open-fill {
+    float: left;
+    position: relative;
+    left: 247px;
+    top: 7px;
+}
+.cont .bi-people-fill {
+    float: left;
+    position: relative;
+    left: 50px;
+    top: 7px;
+}
+
+.cont .bi-phone-fill {
+    float: left;
+    position: relative;
+    left: 440px;
+    top: 7px;
+}
+.cont  input{
+    padding-left: 20px;
+}
+.cont .bi-send-fill {
+    float: left;
+    position: relative;
+    left: 20px;
+    color:white;
+    top: 11px;
+}
